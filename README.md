@@ -9,6 +9,6 @@ Here are some ideas to get you started:-->
 <li>Currently Seeking an Opportunity for a Software Developer role</li>
 <br>
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/dinesh-m-153319234/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/dineshh-m/)
 
 
