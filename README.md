@@ -1,14 +1,14 @@
-# Hi! It's Dinesh here.
+# The Name is **`Dinesh`**
 
-<!--
-**Dinesh882002/Dinesh882002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-<li>I am a hardcore computer science enthusiast. My interests include Operating Systems, Microprocessors, Compilers, Databases, Computer Networks, Web Apps and so on.</li>
-<li>I mostly work with Java, Python, JavaScript, Golang, and sometimes C.</li>
-<li>Currently Seeking an Opportunity for a Software Developer role</li>
+I build systems that work.
+If yours doesn’t, it’s probably not the runtime’s fault.
 <br>
+I don’t trust abstractions I didn’t verify.
+<br>
+I break vague ideas, optimistic assumptions, and architectures powered by hope.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/dineshh-m/)
+---
 
-
+Website: https://dineshh-m.github.io
+<br>
+LinkedIn: https://www.linkedin.com/in/dineshh-m/
